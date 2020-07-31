@@ -1,6 +1,6 @@
-# billify
+# Billify
 
-A new Flutter application.
+Simple Bill Maker built on Flutter. Made for all devices and uploaded on Google Play store.
 
 ## Getting Started
 
